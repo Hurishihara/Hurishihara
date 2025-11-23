@@ -1,7 +1,7 @@
 ### Readme
 
 <div align="center">
-![itgauy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itgauy&theme=graywhite&hide_border=true&border_radius=15)
+    [![Hurishihara's Github Stats](https://github-readme-stats.vercel/api?username=Hurishihara&show_icons=true&theme=dark&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 

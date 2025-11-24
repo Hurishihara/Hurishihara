@@ -1,5 +1,11 @@
 <div align="center">
-    <h2> 👋🏻 Hi, I'm Sebastian!</h2>
+    <h2>👋🏻 Hi, I'm Sebastian!</h2>
+    <p>
+        I'm a recent Computer Science graduate 🎓 with a strong passion for full-stack development 💻. Right now, I'm working on a project called <strong>Structured</strong> 📊, where I'm diving deep into various aspects of software development.
+    </p>
+    <p>
+        I'm learning exciting technologies like <strong>oRPC</strong> 🔌 and <strong>GraphQL</strong> 📡, and also exploring software methodologies such as <strong>Test-Driven Development (TDD)</strong> 📝 and <strong>Domain-Driven Design (DDD)</strong> 🧩.
+    </p>
     <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Hurishihara&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&card_width=520&card_height=200&ring=FFFFFF&fire=79FF97&currStreakLabel=79FF97" alt="Hurishihara's Streak" />
     </a>
